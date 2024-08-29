@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "twilio": "^5.2.3"
+  },
+  "name": "hatapbot",
+  "version": "1.0.0",
+  "main": "ReportBot.js",
+  "scripts": {
+  "start": "node ReportBot.js"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
